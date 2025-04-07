@@ -85,13 +85,3 @@ You can install them with:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
----
-
-## Author
-Generated using Python, assisted by ChatGPT.
-
----
-
-## License
-This project is open-source and free to use.
-
