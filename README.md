@@ -7,6 +7,8 @@ This project applies clustering techniques to a dataset containing country-level
 
 ## Dataset Description
 **Filename**: `Country-data.csv`
+**Dataset Source**: [Plant Village Dataset](https://www.kaggle.com/datasetsarjuntejaswi/plant-village)
+
 
 **Features**:
 - `country`: Name of the country (excluded from clustering)
